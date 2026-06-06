@@ -1,5 +1,18 @@
 # MeshCore LVGL Firmware for LILYGO T-Deck Plus
 
+## Work in progress
+
+This project is experimental and not ready for normal use.
+
+Most firmware functionality is still incomplete, unstable, or broken. The UI,
+Bluetooth companion behavior, MeshCore messaging integration, hardware-driver
+behavior, simulator workflow, installer flow, and release packaging are all
+active development areas and should be treated as unreliable until they are
+tested and documented as working.
+
+Do not flash this expecting a working MeshCore handheld firmware. Use it only
+for development, debugging, and review of the current implementation direction.
+
 This package is a single-shot planning and starter scaffold for building an open-source MeshCore handheld firmware with an LVGL interface sized for the T-Deck Plus 320 x 240 display.
 
 The design target is a rugged, retro embedded-terminal UI inspired by late-1990s/early-2000s handhelds, without using Microsoft, Windows, or other copyrighted system assets.
