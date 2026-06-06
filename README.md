@@ -4,6 +4,9 @@
 
 This project is experimental and not ready for normal use.
 
+The source code is published to share current progress only. No active
+development or maintenance work is being done on this repository at this time.
+
 Most firmware functionality is still incomplete, unstable, or broken. The UI,
 Bluetooth companion behavior, MeshCore messaging integration, hardware-driver
 behavior, simulator workflow, installer flow, and release packaging are all
