@@ -4,10 +4,6 @@ This package is a single-shot planning and starter scaffold for building an open
 
 The design target is a rugged, retro embedded-terminal UI inspired by late-1990s/early-2000s handhelds, without using Microsoft, Windows, or other copyrighted system assets.
 
-## Mockup preview
-
-![Approved MeshCore T-Deck Plus screen mockups](assets/mockups/approved_split_screens_mock.png)
-
 ## What is included
 
 - Full project plan and implementation roadmap
@@ -30,7 +26,6 @@ The design target is a rugged, retro embedded-terminal UI inspired by late-1990s
 - Desktop simulator strategy
 - Test checklist
 - Release checklist
-- Last approved mockup image
 
 ## Important reality check
 
