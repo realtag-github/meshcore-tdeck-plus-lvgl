@@ -1,0 +1,13 @@
+.pio/
+firmware/.pio/
+simulator/build/
+simulator/build-cmake/
+simulator/build-lvgl/
+dist/
+*.root-owned.*/
+*.log
+artifacts/
+simulator/build-lvgl-local/
+simulator/build-lvgl-node/
+tools/__pycache__/
+__pycache__/
